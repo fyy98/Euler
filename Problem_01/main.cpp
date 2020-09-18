@@ -42,4 +42,3 @@ double mcp1(double n, double m) {
 	return n * fl * (fl + 1) / 2;
 }
 */
-
